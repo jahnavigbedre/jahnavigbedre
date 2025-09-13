@@ -100,5 +100,3 @@
 </p>
 
 ---
-
-<h3 align="center">✨ Thanks for stopping by — let’s collaborate and innovate! ✨</h3>
