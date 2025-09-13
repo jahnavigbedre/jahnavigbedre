@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="A_digital_graphic_banner_introduces_Jahnavi_G_Bedr.png" alt="Banner - Jahnavi G Bedre" width="100%" />
-</p>
-
 <h1 align="center">✨ Welcome to My World of Bioinformatics & AI ✨</h1>
 
 <p align="center">
